@@ -99,11 +99,12 @@ without using division.
 - Subarrays Divisible by K
 - Contiguous Array
 - Product of Array Except Self
-```
+
 
 ![WhatsApp Image 2026-01-04 at 12 11 26 PM](https://github.com/user-attachments/assets/cf27413f-3765-4133-9e8b-128538f3f41c)
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/eb8f5f7f-3b45-4ee7-8898-359679f43289" />
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/ef84d71b-9ece-450a-b0ce-c332c2f00cb7" />
+![WhatsApp Image 2026-01-04 at 12 11 36 PM](https://github.com/user-attachments/assets/9c0514e6-41a3-4d3f-b0d2-6d7e7106fd11)
+![WhatsApp Image 2026-01-04 at 12 11 42 PM](https://github.com/user-attachments/assets/3848f7fe-2e51-4bc8-8b84-11b298d47770)
+
 
 
 
