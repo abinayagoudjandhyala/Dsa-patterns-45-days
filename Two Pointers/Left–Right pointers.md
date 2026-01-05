@@ -60,3 +60,8 @@ Two pointers help solve problems efficiently by:
 * Reducing unnecessary comparisons
 * Making decisions based on conditions
 * Using array order to our advantage
+
+![WhatsApp Image 2026-01-05 at 10 36 43 PM](https://github.com/user-attachments/assets/7875452d-e27f-4082-a21f-dbac46aeb72b)
+![WhatsApp Image 2026-01-05 at 10 36 50 PM](https://github.com/user-attachments/assets/827a2a38-0a33-4bdb-bcaa-7023a595f98e)
+![WhatsApp Image 2026-01-05 at 10 36 59 PM](https://github.com/user-attachments/assets/81dd14f8-051f-4663-a50f-88bc07bcf4e2)
+
