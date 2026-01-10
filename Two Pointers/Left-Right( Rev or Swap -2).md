@@ -45,7 +45,7 @@ Pointer movement depends on conditions like value comparison or character type.
 
 ---
 
-### Problems Solved
+### Problems Solved :
 
 Reverse Vowels of a String
 Valid Palindrome II
