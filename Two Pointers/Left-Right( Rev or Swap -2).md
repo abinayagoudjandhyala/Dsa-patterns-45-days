@@ -5,7 +5,7 @@ Today I practiced multiple problems using the **two-pointer technique**, mainly 
 
 ---
 
-### Reverse Vowels of a String
+### Reverse Vowels of a String.
 
 Used two pointers from both ends.
 Moved pointers until both pointed to vowels, then swapped them.
