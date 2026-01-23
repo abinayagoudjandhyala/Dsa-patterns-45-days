@@ -49,3 +49,5 @@ By the end of traversal, all links are reversed.
 
 * Reverse Linked List
 
+![WhatsApp Image 2026-01-23 at 9 05 40 PM](https://github.com/user-attachments/assets/2f59197b-4137-41b5-82a6-3005b2b29ad6)
+
