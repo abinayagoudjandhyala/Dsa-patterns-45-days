@@ -49,3 +49,8 @@ The goal is to find the next greater element for values in `nums1` by first proc
 
 * 496. Next Greater Element I
 
+![WhatsApp Image 2026-01-24 at 11 10 15 PM](https://github.com/user-attachments/assets/bc8e12b4-5210-4c78-b011-968ed8dad1d8)
+![WhatsApp Image 2026-01-24 at 11 10 22 PM](https://github.com/user-attachments/assets/b0da108c-a96e-4c82-a2ce-56259eae0a64)
+![WhatsApp Image 2026-01-24 at 11 10 51 PM](https://github.com/user-attachments/assets/d14be8aa-71a0-44ac-8128-ab7953802779)
+
+
