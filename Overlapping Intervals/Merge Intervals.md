@@ -52,6 +52,8 @@ Merging adjacent overlapping ranges avoids duplicates and unnecessary intervals.
 
 * 56. Merge Intervals
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/1cceb3fa-fa09-4ad4-91d0-d284d8e39355" />
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/a8180bc9-b225-419e-9d98-58459ab28ac2" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/cf7153fe-0db1-478c-b6ed-fc82002753bb" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f090290b-d605-4d96-8345-10a164cf524d" />
+
+
 
