@@ -83,3 +83,11 @@ Priority queue helps build lexicographically largest string under constraints.
 * 2558 – Take Gifts From the Richest Pile
 * 2182 – Construct String With Repeat Limit
 
+![WhatsApp Image 2026-01-30 at 8 53 51 PM](https://github.com/user-attachments/assets/c45ba6cb-eb58-402f-9c43-53f7f6b286b6)
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/eb185381-5127-4065-a680-03b576ab254e" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/852ae5f1-973a-41a0-9408-e1cd854ea14b" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/36d2c215-8b20-49cb-846f-83efcc384621" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/4995ea8d-0d86-4a96-b8d4-bd28f9743950" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e1b9eaf1-e7a3-49fe-ab39-80d21d3b412f" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/121ccece-8a58-48b3-90ed-b83c5a3c329f" />
+
