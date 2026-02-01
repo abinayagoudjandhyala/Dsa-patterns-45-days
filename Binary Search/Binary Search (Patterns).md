@@ -10,4 +10,6 @@ Topics planned for practice under the Binary Search pattern:
 * Peak Index in a Mountain Array
 * Capacity to Ship Packages Within D Days
 * Koko Eating Bananas
-
+* 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/de99188a-d67d-4a83-956d-05e58090abcc" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/43a4bc0a-112b-4faf-81ab-83c1fb4ecedc" />
