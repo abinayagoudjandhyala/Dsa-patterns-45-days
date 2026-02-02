@@ -99,3 +99,10 @@ This property applies **recursively** to all nodes.
 * Level Order Traversal
 * Binary Search Tree fundamentals
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/34115769-e660-4419-aa66-5e3fa14fde0f" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/8ebf6672-39ef-4ea8-90fd-02c41f35eafe" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/ad0a68bd-e772-4ccc-8a74-39e0afbebbab" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/b69b6ee5-3949-4610-b3fc-4a2a1ccf0fdf" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/711cfc96-6ea1-4720-82d4-156686ee345e" />
+
+
