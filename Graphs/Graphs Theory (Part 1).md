@@ -107,3 +107,7 @@ matrix[i][j] = weight
 
 * Adjacency Matrix representation of Graph
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/ac63497c-90ea-4e59-8029-dddab5b8e551" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/63296689-e3b2-40cc-b442-c84046dbb16d" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/2f6dc474-caf7-4631-9461-a576d2bb2e5d" />
+
